@@ -1,0 +1,63 @@
+###Simple with 0.00
+('Chinh phục sao Hỏa', 'title', 'loài_người')
+('Người ngoài hành tinh', 'title', 'loài_người')
+('Người ngoài hành tinh', 'title', 'cuối_cùng')
+('Chinh phục sao Hỏa', 'title', 'tận_thế')
+('Chinh phục sao Hỏa', 'content', 'tận_thế')
+('Người ngoài hành tinh', 'title', 'tận_thế')
+('Người ngoài hành tinh', 'content', 'tận_thế')
+('Chinh phục sao Hỏa', 'title', 'ngày')
+('Người ngoài hành tinh', 'title', 'ngày')
+-------------Find time: 0.71
+Retrieval 1221 document(s)!
+###Retrieval documents with 0.72
+Not found: 'cũng', 'Ngày tận thế', 'title'
+Not found: 'thì', 'Ngày tận thế', 'title'
+Not found: 'loài_người', 'Chinh phục sao Hỏa', 'title'
+Not found: 'tận_thế', 'Chinh phục sao Hỏa', 'title'
+Not found: 'thì', 'Chinh phục sao Hỏa', 'title'
+Not found: 'ngày', 'Chinh phục sao Hỏa', 'title'
+Not found: 'tận_thế', 'Chinh phục sao Hỏa', 'content'
+Not found: 'loài_người', 'Người ngoài hành tinh', 'title'
+Not found: 'cuối_cùng', 'Người ngoài hành tinh', 'title'
+Not found: 'tận_thế', 'Người ngoài hành tinh', 'title'
+Not found: 'ngày', 'Người ngoài hành tinh', 'title'
+Not found: 'tận_thế', 'Người ngoài hành tinh', 'content'
+Not found: 'thì', '1001 bí ẩn', 'title'
+{('Chinh phục sao Hỏa', 'content'): {'loài_người': 0.25, 'đến': 0.01639344262295082, 'cuối_cùng': 0.08333333333333333, 'cũng': 0.013888888888888888, 'của': 0.01020408163265306, 'thì': 0.03125, 'ngày': 0.02702702702702703}, ('Chinh phục sao Hỏa', 'title'): {'của': 0.1, 'đến': 0.5, 'cuối_cùng': 1.0, 'cũng': 1.0}, ('1001 bí ẩn', 'title'): {'loài_người': 0.16666666666666666, 'đến': 0.07692307692307693, 'cuối_cùng': 1.0, 'tận_thế': 0.5, 'của': 0.006756756756756757, 'ngày': 0.125, 'cũng': 0.3333333333333333}, ('Người ngoài hành tinh', 'title'): {'của': 0.0625, 'đến': 0.25, 'thì': 0.5, 'cũng': 1.0}, ('Người ngoài hành tinh', 'content'): {'loài_người': 0.14285714285714285, 'đến': 0.015873015873015872, 'cuối_cùng': 0.125, 'cũng': 0.015151515151515152, 'của': 0.011111111111111112, 'thì': 0.03125, 'ngày': 0.034482758620689655}, ('1001 bí ẩn', 'content'): {'loài_người': 0.0125, 'đến': 0.0011890606420927466, 'cuối_cùng': 0.0044444444444444444, 'tận_thế': 0.06666666666666667, 'của': 0.0008368200836820083, 'thì': 0.00199203187250996, 'ngày': 0.0020920502092050207, 'cũng': 0.001141552511415525}, ('Ngày tận thế', 'title'): {'loài_người': 0.16666666666666666, 'đến': 0.25, 'cuối_cùng': 0.5, 'tận_thế': 0.015151515151515152, 'của': 0.07142857142857142, 'ngày': 0.02564102564102564}, ('Ngày tận thế', 'content'): {'loài_người': 0.041666666666666664, 'đến': 0.0136986301369863, 'cuối_cùng': 0.041666666666666664, 'tận_thế': 0.014285714285714285, 'của': 0.01, 'thì': 0.03225806451612903, 'ngày': 0.013157894736842105, 'cũng': 0.015384615384615385}}
+{('Chinh phục sao Hỏa', 'content'): 0.2678007404992186, ('Chinh phục sao Hỏa', 'title'): 1.5033296378372907, ('1001 bí ẩn', 'title'): 1.1876349196676868, ('Người ngoài hành tinh', 'title'): 1.1473474844178637, ('Người ngoài hành tinh', 'content'): 0.19698671082541058, ('1001 bí ẩn', 'content'): 0.06806033845877109, ('Ngày tận thế', 'title'): 0.5884444317022761, ('Ngày tận thế', 'content'): 0.07358230516415164}
+###Generate vector query with 0.00
+Sim------------ 0.10
+Sorting-------- 0.00
+5df9186bc7cd47cef4ecab3a ==> 0.7876003201806374
+nữ phù_thủy cuối_cùng của nước anh
+---
+5df9186bc7cd47cef4ecaf9d ==> 0.7860963020179524
+2012 là năm cuối_cùng của thế_giới loài_người
+---
+5df9186bc7cd47cef4ecb036 ==> 0.5460085047716318
+cuối_cùng nasa cũng đã tìm ra robot bị mất_tích trên sao hỏa , nhưng họ vẫn chưa vui
+---
+5df9186bc7cd47cef4ecafb8 ==> 0.45675356519668614
+với tình_hình này thì dù có tìm ra người_ngoài hành_tinh , chúng_ta cũng chưa chắc đã biết
+---
+5df9186bc7cd47cef4ecae8b ==> 0.3306938684077745
+thực , hư câu_chuyện ngày tận_thế
+---
+5df9186bc7cd47cef4ecaf64 ==> 0.29623929342354094
+truyền_hình trực_tiếp ngày cuối_cùng của thế_giới
+---
+5df9186bc7cd47cef4ecae50 ==> 0.2662452445132913
+sinh_vật ngoài hành_tinh cũng giống con_người
+---
+5df9186bc7cd47cef4ecaa74 ==> 0.16647743213625302
+tòa_thánh vatican trấn_an tín_đồ về ngày tận_thế
+---
+5df9186bc7cd47cef4ecae69 ==> 0.12532976579421706
+10 điều bí_ẩn về loài_người
+---
+5df9186bc7cd47cef4ecb053 ==> 0.12337949926338361
+nasa tiết_lộ về siêu tên_lửa đưa con_người đến tận sao_hỏa
+---
+###Scoring query with 0.10
+Done! 0.82
